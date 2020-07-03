@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.exe
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.dll
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\bin\Debug\netcoreapp3.1\Aula29Excell.pdb
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.dll
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.pdb
+C:\Users\saman\OneDrive\Documentos\Aula29Excell\obj\Debug\netcoreapp3.1\Aula29Excell.genruntimeconfig.cache
